@@ -1,0 +1,1 @@
+export interface CardModel { title: string, id: number, author: string }
